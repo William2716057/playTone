@@ -28,7 +28,7 @@ def play_sound(signal, sample_rate):
 def main():
     #parameters
     sample_rate = 44100  #sample rate
-    ultrasound_freq = 440  #frequency in Hz (22000)
+    ultrasound_freq = 22000  #frequency in Hz 
     duration = 15 #Duration in seconds
     
     #generate tone
